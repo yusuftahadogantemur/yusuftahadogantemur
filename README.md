@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=140A2E,4B0082,8A2BE2,9400D3,140A2E&height=220&section=header&text=Yusuf%20Taha%20Do%C4%9Fantemur&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Database%20Engineer&descAlignY=55&descSize=20&descColor=d1d5db" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=140A2E,4B0082,8A2BE2,9400D3,140A2E&height=220&section=header&text=Yusuf%20Taha%20Do%C4%9Fantemur&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Junior%20Developer%20%7C%20Database%20Focus&descAlignY=55&descSize=20&descColor=d1d5db" alt="Header Banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Architecting+Relational+Databases;Crafting+Vue.js+%26+Laravel+Platforms;Bridging+Design+and+Engineering" alt="Typing Animation" />
 
@@ -26,13 +26,13 @@
 
 ## ✦ About
 
-I am a **Full Stack Developer** and Computer Programming student at Pamukkale University, blending technical problem-solving with a creative background in graphic design. My focus is on architecting robust relational databases and building seamless, highly aesthetic web applications. As a former competitive swimmer and water polo player, I bring high-performance discipline, consistency, and a structured mindset to my software engineering projects.
+I am a **Junior Developer** and Computer Programming student at Pamukkale University, blending technical problem-solving with a creative background in graphic design. My current focus is on learning to architect robust relational databases and building seamless web applications. As a former competitive swimmer and water polo player, I bring high-performance discipline, consistency, and a structured mindset to my software engineering journey.
 
-*   **Engineering Philosophy:** Clean relational data modeling, scalable backend architectures, and component-driven modern frontends.
-*   **Database & Backend:** Specializing in MS SQL Server (views, triggers, stored procedures) and Laravel API development.
+*   **Engineering Philosophy:** Clean relational data modeling, scalable backend foundations, and component-driven frontends.
+*   **Database & Backend Focus:** Building strong fundamentals in MS SQL Server (views, triggers, stored procedures) and Laravel API development.
 *   **Frontend & UI/UX:** Crafting responsive web applications with Vue 3 and JavaScript, heavily informed by my knowledge of Adobe Photoshop, Illustrator, and InDesign.
 *   **Professional Details:** B2-Level English proficiency.
-*   **Open To:** Software Developer Internships, Junior Full Stack Roles, and Open Source Collaborations.
+*   **Open To:** Software Developer Internships, Junior Backend/Database Roles, and Open Source Collaborations.
 
 ---
 
@@ -45,10 +45,12 @@ I am a **Full Stack Developer** and Computer Programming student at Pamukkale Un
 <a href="#"><img src="https://skillicons.dev/icons?i=vue,tailwind,html,css,vite,figma&theme=dark" alt="Frontend" /></a>
 
 **Backend & Databases**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=laravel,mysql,postgres&theme=dark" alt="Backend" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /></a>
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
 
 **Design & Tooling**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=ps,ai,id,github,postman&theme=dark" alt="Tools" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=ps,ai,github,postman&theme=dark" alt="Tools" /></a>
+<img src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />
 
 ---
 
@@ -56,9 +58,9 @@ I am a **Full Stack Developer** and Computer Programming student at Pamukkale Un
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Relational Databases** | Advanced | MS SQL Server, Stored Procedures, Mail Triggers, Views (`vw_randevular`) |
-| **Full Stack Web** | Intermediate | Vue 3 Component Hierarchy, Laravel API Integration, CSS Design Tokens |
-| **Object-Oriented Programming** | Intermediate | C# Desktop Utilities, C++, Python |
+| **Relational Databases** | Intermediate | MS SQL Server, Stored Procedures, Mail Triggers, Views (`vw_randevular`) |
+| **Web Development** | Junior | Vue 3 Component Hierarchy, Laravel API Integration, CSS Design Tokens |
+| **Object-Oriented Programming** | Junior | C# Desktop Utilities, C++, Python |
 | **Creative Design Software** | Intermediate | Adobe Photoshop, Adobe Illustrator, Adobe InDesign workflows |
 
 ---
@@ -66,27 +68,9 @@ I am a **Full Stack Developer** and Computer Programming student at Pamukkale Un
 ## ✦ Featured Projects
 
 <details>
-<summary><b>Streetwear E-Commerce Platform</b></summary>
-<br />
-A comprehensive full-stack e-commerce web application tailored for minimalist streetwear, featuring scalable component architecture and API integration.
-
-| Attribute | Specification |
-| :--- | :--- |
-| **Stack** | Vue 3, Laravel, MS SQL Server, Tailwind CSS |
-| **Scale** | Custom API layer and UI component library |
-| **Performance** | Optimized rendering via Vue 3 Composition API |
-| **Architecture** | MVC pattern with strict CSS design tokens |
-| **Impact** | Engineered a complete product catalog and dynamic cart system |
-| **Repository** | [github.com/yusuftahadogantemur/streetwear-ecommerce](#) |
-
-*The platform utilizes Vue 3 for a highly reactive frontend, consuming RESTful APIs built with Laravel. The data layer is powered by MS SQL Server, designed with normalized tables to efficiently handle user sessions, inventory management, and high-fidelity product imagery.*
-<br />
-</details>
-
-<details>
 <summary><b>Hospital Appointment & Examination DBMS</b></summary>
 <br />
-An advanced relational database management system designed to automate patient scheduling, examination records, and notification workflows.
+A relational database management system project designed to automate patient scheduling, examination records, and notification workflows.
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -137,8 +121,6 @@ Delivered digital assets and branding materials leveraging industry-standard cre
 | :--- | :--- |
 | **Professional Athlete** | Former competitive swimmer and water polo player at Ege University. |
 | **Language Certification** | B2-Level English Language Proficiency. |
-| **Game Server Admin** | Configured and managed multiplayer technical networks (Rust, Minecraft). |
-| **Content Creator** | Authored custom hip-hop rap lyrics and cinematic trap beat templates. |
 
 </div>
 
@@ -173,35 +155,14 @@ Delivered digital assets and branding materials leveraging industry-standard cre
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuftahadogantemur&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9" alt="Top Languages" width="60%" />
+### Most Used Languages
+<br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-</div>
-
----
-
-## ✦ GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yusuftahadogantemur&theme=radical&column=7&no-frame=true&no-bg=true&title-text-color=8A2BE2" alt="GitHub Trophies" />
-</div>
-
----
-
-## ✦ Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuftahadogantemur&theme=tokyo-night&bg_color=0D1117&color=8A2BE2&line=9400D3&point=4B0082&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-## ✦ Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusuftahadogantemur/yusuftahadogantemur/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/yusuftahadogantemur/yusuftahadogantemur/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%">
-</picture>
 </div>
 
 ---
@@ -214,13 +175,8 @@ Current_Status:
     - "Advanced Vue 3 Composition API Techniques"
     - "RESTful API Optimization with Laravel"
   Building:
-    - "Minimalist Streetwear E-Commerce Platform"
     - "Automated SQL Server Notification Triggers"
-  Exploring:
-    - "250cc Racing Motorcycle Market (CFMOTO 250SR / Voge 250RR)"
-    - "Hypertrophy Strength Training & Sports Nutrition"
-    - "Multiplayer Game Server Configurations"
   Open_To:
     - "Software Development Internships"
-    - "Junior Full Stack Roles"
+    - "Junior Backend / Database Roles"
     - "Collaborative Web Projects"
