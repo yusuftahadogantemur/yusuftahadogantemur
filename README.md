@@ -39,18 +39,18 @@ I am a **Junior Developer** and Computer Programming student at Pamukkale Univer
 ## ✦ Tech Stack
 
 **Languages**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=cs,cpp,py,js,php&theme=dark" alt="Languages" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=cs,cpp,py,js,php&theme=dark" alt="Languages" valign="middle" /></a>
 
 **Frontend**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=vue,tailwind,html,css,vite,figma&theme=dark" alt="Frontend" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=vue,tailwind,html,css,vite,figma&theme=dark" alt="Frontend" valign="middle" /></a>
 
 **Backend & Databases**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /></a>
-<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
+<a href="#"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" valign="middle" /></a>
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" valign="middle" />
 
 **Design & Tooling**<br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=ps,ai,github,postman&theme=dark" alt="Tools" /></a>
-<img src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />
+<a href="#"><img src="https://skillicons.dev/icons?i=ps,ai,github,postman&theme=dark" alt="Tools" valign="middle" /></a>
+<img src="https://img.shields.io/badge/InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=white" alt="InDesign" valign="middle" />
 
 ---
 
